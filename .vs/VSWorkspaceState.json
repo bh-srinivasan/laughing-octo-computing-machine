@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github"
+    "\\.github",
+    "\\docs"
   ],
+  "SelectedNode": "\\docs\\random.html",
   "PreviewInSolutionExplorer": false
 }
